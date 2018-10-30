@@ -1,6 +1,12 @@
 # tream
 
+### mysql
 ```
-docker-compose up -d
-docker-compose down
+$ d:\mamp\bin\mysql\bin
+$ mysql -uroot -proot
+```
+### using docker
+```	
+docker-compose up -d	
+docker-compose down	
 ```
