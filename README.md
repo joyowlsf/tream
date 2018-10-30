@@ -2,6 +2,6 @@
 
 ### mysql
 ```
-$ d:\mamp\bin\mysqll\bin
+$ d:\mamp\bin\mysql\bin
 $ mysql -uroot -proot
 ```
