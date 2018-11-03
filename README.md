@@ -1,6 +1,5 @@
-# 📗📚 tream
-
-### build
+# tream
+##### 📗📚 build
 
 ### how to work ?
 1. you'd have install MAMP
