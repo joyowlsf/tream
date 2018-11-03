@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <div class="head"> 서적 주문 양식</div>
+    <form class="" action="process_order.php" method="GET">
+      <p>주문서</p>
+      <table border="1">
+        <tr>
+          <th>책 제목</th>
+          <th>가격</th>
+          <th>수량</th>
+        </tr>
+        <tr>
+          <td>멀티미디어 배움터 2.0</td>
+          <td>25,000원</td>
+          <td><input type="text" size="2" value="0" name="book1"></td>
+        </tr>
+        <tr>
+          <td>(알기 쉬운) 알고리즘</td>
+          <td>24,000원</td>
+          <td><input type="text" size="2" value="0" name="book2"></td>
+        </tr>
+        <tr>
+          <td>비즈니스 정보 시스템</td>
+          <td>28,000원</td>
+          <td><input type="text" size="2" value="0" name="book3"></td>
+        </tr>
+      </table>
+      <br>
+      <input type="reset" name="" value="초기화"/>
+      <input type="submit" name="" value="주문하기"/>
+    </form>
+  </body>
+</html>
