@@ -1,5 +1,5 @@
 # tream
-##### 📗📚 build
+### 📗📚 contract
 
 ### how to work ?
 1. you'd have install MAMP
